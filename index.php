@@ -4,4 +4,6 @@ echo "teste 121321421";
  echo " - Gabriel";
  //testando commit no dia seguinte, checando se a pasta ainda sicroniza com o github, etc.//
  echo " - commit do dia seguinte";
+ //testando commit no dia 28/08/2014
+ echo " - commit do dia 28/08/14"
 ?>

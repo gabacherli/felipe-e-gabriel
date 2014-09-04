@@ -2,7 +2,7 @@
 <html>
      <head>
          <meta charset ="UTF-8" />
-         <title>Fibonacci</title>
+         <title>Array</title>
      </head>
 	 <body>
 	     <b>Array</b><hr/><hr/>

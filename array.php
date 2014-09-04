@@ -2,7 +2,7 @@
 <html>
      <head>
          <meta charset ="UTF-8" />
-         <title>Array</title>
+         <title>Exercício Array</title>
      </head>
 	 <body>
 	     <b>Array</b><hr/><hr/>
